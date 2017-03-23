@@ -1,16 +1,17 @@
 {
           "data": [
                     {
-                              "fullname": "gazandi cahyadarma"
+                              "fullname": "Si Bawel"
                     },
                     {
-                              "about": "A third year Computer Science/Informatics undergraduate student at Bandung Institute of Technology. Having interest in programming, design, and business. Seeking an internship to gain more experience in software and web development. Specialities• Programming (Java, HTML, CSS, JQuery, C, C++, etc)• Microsoft Office (Word, PowerPoint, Excel)• Adobe Photoshop "
+                              "about": "Si Bawel adalah bot untuk mengatur acara dalam grup anda dan pengeluaran yang berhubungan dengan acara 
+tersebut."
                     },
                     {
-                              "now": "Looking for Software Developer Internship Opportunities"
+                              "now": "Solusi Masalah Acara Grup Anda :) "
                     },
                     {
-                              "location": "Bandung Area, West Java, Indonesia"
+                              "location": "Indonesia"
                     },
                     {
                               "joblist": [
@@ -47,8 +48,8 @@
                     {
                               "edulist": [
                                         {
-                                                  "eduplace": "Institut Teknologi Bandung (ITB)",
-                                                  "edufocus": "Bachelor's degree, Informatics",
+                                                  "eduplace": "add me at",
+                                                  "edufocus": "@mly8325r",
                                                   "duration": "2013 – 2017",
                                                   "description": "Activities and Societies: Student Union, KM-ITB"
                                         },
