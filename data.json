@@ -4,7 +4,7 @@
                               "fullname": "Si Bawel"
                     },
                     {
-                              "about": "Si Bawel adalah bot untuk mengatur acara dalam grup anda dan pengeluaran yang berhubungan dengan acara tersebut."
+                              "about": "Si Bawel adalah sebuah pengelola grup yang bisa mengingatkan kamu hal-hal yang penting dan membantu kamu menata sebuah grup. Kamu mau menyelenggarakan sebuah acara dan ingin tahu siapa saja yang akan datang dalam acara tersebut? Si Bawel dapat membuat schedule acara tersebut dan mengingatkan apabila acara tersebut akan segera dilaksanakan. Apabila ada yang ingin mengikuti acara tersebut tinggal lapor kepada Si Bawel. Si Bawel akan mencatat orang yang terdaftar untuk suatu acara dan dapat memberikan rinciannya apabila diperlukan. Dalam sebuah acara kadang-kadang ada pengeluaran yang harus dilakukan. Si Bawel dapat menyimpan rincian pengeluaran yang dilakukan untuk suatu acara. Kamu dapat memasukan angkanya secara manual atau mengirim foto bukti pembayaran di grup dimana Si Bawel ada. Si Bawel akan otomatis merekap semua pengeluaran yang dilaporkan. Apabila anggota grup ingin melihat rincian biaya suatu, Si Bawel dapat mengeluarkan rincian biaya untuk tiap orang yang mengikuti acara tersebut. Visi dari Si Bawel adalah mempermudah pengelolaan suatu grup dengan khas 'bawel'. Bot ini menggunakan kata ai, tesseract, dan heroku."
                     },
                     {
                               "now": "Solusi Masalah Acara Grup Anda :) "
